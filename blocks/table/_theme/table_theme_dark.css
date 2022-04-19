@@ -1,0 +1,6 @@
+.table_theme_dark {
+  display: grid;
+  grid-template-columns: repeat(5, 200px);
+  column-gap: 25px;
+  z-index: 1;
+}
